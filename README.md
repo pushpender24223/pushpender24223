@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pushpender24223
-- 👀 I’m interested in being Data Analyst
+- 👀 I’m looking in being Data Analyst
 - 🌱 I’m currently practising Machine Learning alogrithms.
-- 💞️ I’m looking to collaborate on Power Bi, Tableau Dash board presentation.
+- 💞️ I’m looking to collaborate on Machine learning, Power Bi, Tableau Dash board presentation.
 - 📫 How to reach me... mail me on pushpendra24223@gmail.com
 
 <!---
